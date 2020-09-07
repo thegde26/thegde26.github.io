@@ -13,21 +13,21 @@ My goal is to familiarize myself with a few different popular web frameworks so 
 Here are the web frameworks I'd like to learn: 
 </p>
 <ol>
-<li> <h4>Python - Django</h4>
+ <h1><li>Python - Django</h1>
      <p>To get started I'd like to try out the Django framework based on Python. I think Python is an easier to learn language and is something I'm already familiar with.</p>
      <ul>
           <li><p>With Django, I'll work on creating a Discussions Board website following the tutorial <a href="https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/">here</a></p>
           </li>
      </ul>
 </li>
-<li><h4>Javascript/JSX - React</h4>
+<h1><li>Javascript/JSX - React</h1>
     <p>React is everywhere nowadays. React is actually a library and not a framework, but it seems to be a highly popular choice for application development.  
     Although there seems to be a bit of a learning curve with React, I'm willing to give it a try since it's so popular.</p>
     <ul>
          <li><p> With React, I'll attempt to make a To-Do List App following the tutorial <a href="https://www.kirupa.com/react/simple_todo_app_react.htm">here</a></p></li>
     </ul>
 </li>
-<li><h4>Ruby on Rails</h4>
+<h1><li>Ruby on Rails</h1>
     <p>Ruby also appears at the top of the list in popular frameworks being used today. It seems to be a developer friendly framework that uses the MVC model.</p>
     <ul>
          <li><p> With Ruby on Rails, I'll try the To-Do List App following the tutorial <a href="https://medium.com/@deallen7/how-to-build-a-todo-app-in-rails-e6571fcccac3"> here</a></p></li>
