@@ -8,23 +8,47 @@ Hello! Today I'm attempting my first of what will be a series of experiments in 
 I'm a complete beginner when it comes to web development, so this will be fun and challenging. 
 My goal is to familiarize myself with a few different popular web frameworks so that I can better understand the pros and cons of each framework and grasp concepts that can only be learnt through doing. 
 </p>
-Here are the web frameworks I'd like to work with: 
+Here are the web frameworks I'd like to learn: 
 <ol>
 <li> <h3>Python - Django</h3>
      To get started I'd like to try out the Django framework based on Python. I think Python is an easier to learn language and is something I'm already familiar with. 
      <ul>
-          <li> The tutorial I will follow is here: "https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/" </li>
+          <li> With Django, I'll work on creating a Discussions Board website following the tutorial here: https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/
+          </li>
      </ul>
 </li>
-<li> <h3>Javascript/JSX - React</h3>
-    This framework is everywhere these days. It seems like a no brainer that this must be on the list. Although there seems to be a bit of a learning curve with React, I'm willing to 
-    give it a try since it's so popular. 
-    With React I'll attempt to make a To-Do List App: https://www.kirupa.com/react/simple_todo_app_react.htm
+<li><h3>Javascript/JSX - React</h3>
+    React is everywhere nowadays. React is actually a library and not a framework, but it seems to be a highly popular choice for application development.  
+    Although there seems to be a bit of a learning curve with React, I'm willing to give it a try since it's so popular. 
+    <ul>
+         <li> With React, I'll attempt to make a To-Do List App following the tutorial here: https://www.kirupa.com/react/simple_todo_app_react.htm </li>
+    </ul>
 </li>
 <li><h3>Ruby on Rails</h3>
-    Ruby also appears at the top of the list in popular frameworks being used today. It follow the MVC pattern which I think will be a very important concept for me to really learn. 
-    I'd like to create an app that tracks my financial portfolio and perhaps I will attempt this with Ruby on Rails!
+    Ruby also appears at the top of the list in popular frameworks being used today. It seems to be a developer friendly framework that uses the MVC model. 
+    <ul>
+         <li> With Ruby on Rails, I'll try the To-Do List App following the tutorial here: https://medium.com/@deallen7/how-to-build-a-todo-app-in-rails-e6571fcccac3 </li>
+     </ul>
 </li>
+     
+ ----------------------------------
+ 
+ <h3>Update on Today's Progress</h3>
+     <p> I began working on the Django tutorial for building a discussion boards website. There are 7 parts in the series, and I made it through the first 4. 
+     The first section was helpful in showing me how to download Django and set up a virtual environment for python - this basically allows you to isolate any libraries or    plugins into your specific Python project, so you're not downloading anything to your entire system that would affect other python projects. </p>
+     <p> The next few sections gave a very thorough look at all the steps needed for creating a django application. Since I'm completely new to web development, this was a bit overwhelming, and I'm not sure I grasped everything that I was doing through the tutorial. However, it was good to get my feet wet in this area, which is something I've been interested in learning for a long time.</p>
+     The main takeaways from Day 1 are: 
+     <ol>
+          <li> manage.py --> this is used for starting the server, the command used to start the server is python manage.py runserver</li>
+          <li> there is a concept of Apps vs Projects. An app can be a functioning part of a project (think User Authentication or the Discussion Boards) and these app(s) make up the overall Project. The idea behind this is you can reuse apps across different projects, making it more flexible and modular. </li> 
+          <li> we used a base.html which had the overall template for each of the pages and then each specialized was an extension of the base.html. The html pages also all included placeholders that are dynamic. </li> 
+          <li> django comes with a SQLite database so in the models.py section, we specified the database tables as classes along with their respective columns as fields. You can include foreign keys to link tables together and also specify the field types</li> 
+     </ol>
+<p>
+There's definitely a lot of stuff i'm still fuzzy with like what we did in the views.py, settings.py, and within the html files, but I feel good about making it this far on my first day!
+</p>
+     
+ 
     
      
      
