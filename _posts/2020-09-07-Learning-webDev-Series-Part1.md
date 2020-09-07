@@ -35,7 +35,7 @@ Here are the web frameworks I'd like to learn:
 </li>
 </ul> 
 <hr />
-<h4>Update on Today's Progress</h4>
+<h2>Update on Today's Progress</h2>
 <p>
 I began working on the Django tutorial for building a discussion boards website. There are 7 parts in the series, and I made it through the first 3, and halfway into Part 4. 
 </p>
@@ -46,7 +46,7 @@ The first section was helpful in showing me how to download Django and set up a 
 The next few sections gave a very thorough look at all the steps needed for creating a Django application. Since I'm completely new to web development, this was a bit overwhelming, and I know I didn't grasp everything that I was doing through the tutorial. However, it was good to get my feet wet in this area, which is something I've been interested in learning for a long time.
 </p>
 
-<h5>The main takeaways from Day 1 are:</h5>
+<h2>The main takeaways from Day 1 are:</h2>
 <blockquote>
      <ul>
           <li><p> manage.py -> this is used for starting the server, the command used to start the server is python manage.py runserver </p></li>
