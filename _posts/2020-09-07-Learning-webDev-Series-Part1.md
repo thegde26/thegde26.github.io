@@ -13,7 +13,7 @@ Here are the web frameworks I'd like to work with:
 <li> <h3>Python - Django</h3>
      To get started I'd like to try out the Django framework based on Python. I think Python is an easier to learn language and is something I'm already familiar with. 
      <ul>
-          <li> The tutorial I will follow is here: <a href="https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/"></a></li>
+          <li> The tutorial I will follow is here: "https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/" </li>
      </ul>
 </li>
 <li> <h3>Javascript/JSX - React</h3>
