@@ -4,30 +4,33 @@ title: "Series: Learning Web Development, Day 1"
 date: 2020-09-07
 ---
 
+<p>
 Hello! Today I'm attempting my first of what will be a series of experiments in web development. 
 I'm a complete beginner when it comes to web development, so this will be fun and challenging. 
 My goal is to familiarize myself with a few different popular web frameworks so that I can better understand the pros and cons of each framework and grasp concepts that can only be learnt through doing. 
-
+</p>
+<p>
 Here are the web frameworks I'd like to learn: 
+</p>
 <ol>
 <li> <h3>Python - Django</h3>
-     To get started I'd like to try out the Django framework based on Python. I think Python is an easier to learn language and is something I'm already familiar with. 
+     <p>To get started I'd like to try out the Django framework based on Python. I think Python is an easier to learn language and is something I'm already familiar with.</p>
      <ul>
-          <li> With Django, I'll work on creating a Discussions Board website following the tutorial here: https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/
+          <li><p>With Django, I'll work on creating a Discussions Board website following the tutorial here: https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/</p>
           </li>
      </ul>
 </li>
 <li><h3>Javascript/JSX - React</h3>
-    React is everywhere nowadays. React is actually a library and not a framework, but it seems to be a highly popular choice for application development.  
-    Although there seems to be a bit of a learning curve with React, I'm willing to give it a try since it's so popular. 
+    <p>React is everywhere nowadays. React is actually a library and not a framework, but it seems to be a highly popular choice for application development.  
+    Although there seems to be a bit of a learning curve with React, I'm willing to give it a try since it's so popular.</p>
     <ul>
-         <li> With React, I'll attempt to make a To-Do List App following the tutorial here: https://www.kirupa.com/react/simple_todo_app_react.htm </li>
+         <li><p> With React, I'll attempt to make a To-Do List App following the tutorial here: https://www.kirupa.com/react/simple_todo_app_react.htm </p></li>
     </ul>
 </li>
 <li><h3>Ruby on Rails</h3>
-    Ruby also appears at the top of the list in popular frameworks being used today. It seems to be a developer friendly framework that uses the MVC model. 
+    <p>Ruby also appears at the top of the list in popular frameworks being used today. It seems to be a developer friendly framework that uses the MVC model.</p>
     <ul>
-         <li> With Ruby on Rails, I'll try the To-Do List App following the tutorial here: https://medium.com/@deallen7/how-to-build-a-todo-app-in-rails-e6571fcccac3 </li>
+         <li><p> With Ruby on Rails, I'll try the To-Do List App following the tutorial here: https://medium.com/@deallen7/how-to-build-a-todo-app-in-rails-e6571fcccac3</p></li>
      </ul>
 </li>
      
