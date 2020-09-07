@@ -31,7 +31,7 @@ Here are the web frameworks I'd like to learn:
      </ul>
 </li>
      
- ----------------------------------
+<hr />
 ##### Update on Today's Progress
 I began working on the Django tutorial for building a discussion boards website. There are 7 parts in the series, and I made it through the first 3, and halfway into Part 4.  
 The first section was helpful in showing me how to download Django and set up a virtual environment for Python - this basically allows you to isolate any libraries or    plugins into your specific Python project, so you're not downloading anything to your entire system that would affect other python projects.
