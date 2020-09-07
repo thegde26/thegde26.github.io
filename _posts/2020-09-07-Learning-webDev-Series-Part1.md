@@ -43,16 +43,16 @@ I began working on the Django tutorial for building a discussion boards website.
 The first section was helpful in showing me how to download Django and set up a virtual environment for Python - this basically allows you to isolate any libraries or    plugins into your specific Python project, so you're not downloading anything to your entire system that would affect other python projects.
 </p>
 <p>
-The next few sections gave a very thorough look at all the steps needed for creating a Django application. Since I'm completely new to web development, this was a bit overwhelming, and I know I didn't grasp everything that I was doing through the tutorial. However, it was good to get my feet wet in this area, which is something I've been interested in learning for a long time.
+The next few sections gave a very thorough look at all the steps needed for creating a Django application. Since I'm completely new to web development, this was a bit overwhelming, and I know I didn't grasp everything that I was doing through the tutorial. However, it was good to get my feet wet in this area, as it's something I've been interested in learning for a long time.
 </p>
 
 <h2>The main takeaways from Day 1 are:</h2>
 <blockquote>
      <ul>
-          <li><p> manage.py: This is used for starting the server, the command used to start the server is python manage.py runserver </p></li>
+          <li><p> manage.py: This is used for starting the server, the command used to start the server is python manage.py runserver</p></li>
           <li><p> There is a concept of Apps vs Projects. An app can be a functioning part of a project (think User Authentication or the Discussion Boards) and these app(s) make up the overall Project. The idea behind this is you can reuse apps across different projects, making it more flexible and modular.</p></li>
-          <li><p> We used a base.html which had the overall template for each of the pages and then each specialized was an extension of the base.html. The html pages also all included placeholders that are dynamic</p></li>
-          <li><p> Django comes with a SQLite database so in the models.py section, we specified the database tables as classes along with their respective columns as fields. You can include foreign keys to link tables together and also specify the field types</p></li>
+          <li><p> We used a base.html which had the overall template for each of the pages and then each specialized page was an extension of the base.html. The html pages also all included placeholders that are dynamic.</p></li>
+          <li><p> Django comes with a SQLite database so in the models.py section, we specified the database tables as classes along with their respective columns as fields. You can include foreign keys to link tables together and also specify the field types.</p></li>
      </ul>
 </blockquote>
 
