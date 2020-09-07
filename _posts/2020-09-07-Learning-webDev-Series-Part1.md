@@ -6,16 +6,15 @@ date: 2020-09-07
 <p>
 Hello! Today I'm attempting my first of what will be a series of experiments in web development. 
 I'm a complete beginner when it comes to web development, so this will be fun and challenging. 
-My goal is to familiarize myself with a few different popular web frameworks so that I can better understand the pros and cons of each framework and grasp concepts that can only be learnt
-through doing. 
+My goal is to familiarize myself with a few different popular web frameworks so that I can better understand the pros and cons of each framework and grasp concepts that can only be learnt through doing. 
 </p>
 Here are the web frameworks I'd like to work with: 
 <ol>
 <li> <h3>Python - Django</h3>
      To get started I'd like to try out the Django framework based on Python. I think Python is an easier to learn language and is something I'm already familiar with. 
-     After watching a tutorial for Django, I think this would be a good place to start. 
-     The first part of learning Django will be to try the getting started tutorial on the Django Website: https://docs.djangoproject.com/en/3.1/intro/tutorial01/
-     Next, I will attempt to follow the tutorial on building a Weather App found here: https://www.digitalocean.com/community/tutorials/how-to-build-a-weather-app-in-django 
+     <ul>
+          <li> The tutorial I will follow is here: <a href="https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/"></a></li>
+     </ul>
 </li>
 <li> <h3>Javascript/JSX - React</h3>
     This framework is everywhere these days. It seems like a no brainer that this must be on the list. Although there seems to be a bit of a learning curve with React, I'm willing to 
