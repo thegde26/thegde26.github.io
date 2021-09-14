@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Taarika Hegde, First Blog Post"
-date: 2020-09-06
+title: "Blog Post 1"
+date: 2021-09-13
 ---
 
-Excited to add my first blog post. 
-This will be my experiment in trying to learn more about front-end technologies and growing my skills in web development! 
-More to come soon!
+Insert Blog Post Here. 
